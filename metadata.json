@@ -1,0 +1,6 @@
+{
+  "name": "Gerenciador de Contatos",
+  "description": "Sistema completo para salvar e gerenciar contatos (Nome, E-mail, Telefone) com integração ao Supabase e backup local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
